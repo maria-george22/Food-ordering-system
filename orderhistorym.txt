@@ -1,0 +1,16 @@
+****************************
+1) 5x FRUTTI DI MARE LARGE with extra MUSHROM
+--Price: 475 L.E
+Subtotal = 475 L.E
+Discount 23.75 L.E
+Delivery = 30 L.E
+Total Amount of Price = 481.25 L.E
+****************************
+1) 2x NAPOLITANA MEDIUM with extra OLIVES
+--Price: 130 L.E
+2) 1x MARGARITA SMALL with extra CHEESE
+--Price: 75 L.E
+Subtotal = 205 L.E
+Discount 10.25 L.E
+Delivery = 30 L.E
+Total Amount of Price = 224.75 L.E
